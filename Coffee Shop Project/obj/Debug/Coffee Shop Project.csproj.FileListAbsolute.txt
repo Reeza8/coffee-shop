@@ -1,0 +1,15 @@
+C:\Users\msi\source\repos\Coffee Shop Project\Coffee Shop Project\bin\Debug\Coffee Shop Project.exe.config
+C:\Users\msi\source\repos\Coffee Shop Project\Coffee Shop Project\bin\Debug\Coffee Shop Project.exe
+C:\Users\msi\source\repos\Coffee Shop Project\Coffee Shop Project\bin\Debug\Coffee Shop Project.pdb
+C:\Users\msi\source\repos\Coffee Shop Project\Coffee Shop Project\obj\Debug\Coffee Shop Project.csproj.AssemblyReference.cache
+C:\Users\msi\source\repos\Coffee Shop Project\Coffee Shop Project\obj\Debug\Coffee Shop Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\msi\source\repos\Coffee Shop Project\Coffee Shop Project\obj\Debug\Coffee_Shop_Project.Form1.resources
+C:\Users\msi\source\repos\Coffee Shop Project\Coffee Shop Project\obj\Debug\Coffee_Shop_Project.Properties.Resources.resources
+C:\Users\msi\source\repos\Coffee Shop Project\Coffee Shop Project\obj\Debug\Coffee Shop Project.csproj.GenerateResource.cache
+C:\Users\msi\source\repos\Coffee Shop Project\Coffee Shop Project\obj\Debug\Coffee Shop Project.csproj.CoreCompileInputs.cache
+C:\Users\msi\source\repos\Coffee Shop Project\Coffee Shop Project\obj\Debug\Coffee Shop Project.exe
+C:\Users\msi\source\repos\Coffee Shop Project\Coffee Shop Project\obj\Debug\Coffee Shop Project.pdb
+C:\Users\msi\source\repos\Coffee Shop Project\Coffee Shop Project\obj\Debug\Coffee_Shop_Project.food_form.resources
+C:\Users\msi\source\repos\Coffee Shop Project\Coffee Shop Project\obj\Debug\Coffee_Shop_Project.Form2.resources
+C:\Users\msi\source\repos\Coffee Shop Project\Coffee Shop Project\obj\Debug\Coffee_Shop_Project.desert_form.resources
+C:\Users\msi\source\repos\Coffee Shop Project\Coffee Shop Project\obj\Debug\Coffee_Shop_Project.salad_form.resources
